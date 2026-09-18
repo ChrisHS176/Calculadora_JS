@@ -19,10 +19,10 @@ Calculadora básica hecha con HTML, CSS y JavaScript que realiza operaciones ari
 - JavaScript
 
 ## Estructura del proyecto
--├── index.html # Interfaz de la calculadora
--├── estilo.css # Estilos visuales
--├── operaciones.js # Lógica de las operaciones
--└── README.md # Este archivo
+- ├── index.html # Interfaz de la calculadora
+- ├── estilo.css # Estilos visuales
+- ├── operaciones.js # Lógica de las operaciones
+- └── README.md # Este archivo
 
 ## Cómo usarlo
 
@@ -40,4 +40,4 @@ Calculadora básica hecha con HTML, CSS y JavaScript que realiza operaciones ari
 
 ## Autor
 
-Christopher
+Christopher Hernández Santiago
