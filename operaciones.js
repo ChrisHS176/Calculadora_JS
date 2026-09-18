@@ -27,7 +27,7 @@ function operaciones(op)
                 document.getElementById('resultado').innerHTML="<span style='color: #00FF04; font-family: Arial, Helvetica, sans-serif;'>" + resultado + "</span>";
                 break;
             case 'dividir':
-                if (num1 == 0 || num2 == 0){
+                if (num2 == 0){
                 document.getElementById('resultado').innerHTML="<span style='color: red;'>No puedes dividir entre cero</span>"
                 }else{
                     var resultado = parseFloat(num1) / parseFloat(num2);
