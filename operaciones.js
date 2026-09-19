@@ -38,9 +38,12 @@ function operaciones(op)
                 document.getElementById('resultado').innerHTML="<span style='color: #00FF04; font-family: Arial, Helvetica, sans-serif;'>" + resultado + "</span>";
                 break;
             case 'raiz':
-                var resultado = parseFloat(num1) ** (1 / parseFloat(num2));
-                document.getElementById('resultado').innerHTML="<span style='color: #00FF04; font-family: Arial, Helvetica, sans-serif;'>" + resultado + "</span>";
-                break;
+                if (num2 == 0){
+                document.getElementById('resultado').innerHTML="<span style='color: red;'>La raíz no puede tener un índice de cero</span>"
+                }else{
+                    var resultado = parseFloat(num1) ** (1 / parseFloat(num2));
+                    document.getElementById('resultado').innerHTML="<span style='color: #00FF04; font-family: Arial, Helvetica, sans-serif;'>" + resultado + "</span>";}
+                    break;
         }
         
     }
