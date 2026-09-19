@@ -1,4 +1,4 @@
-# Calculadora Simple
+# Calculadora con JavaScript
 Dimensión 3
 
 Calculadora básica hecha con HTML, CSS y JavaScript que realiza operaciones aritméticas entre dos números.
