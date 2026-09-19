@@ -37,6 +37,8 @@ Calculadora básica hecha con HTML, CSS y JavaScript que realiza operaciones ari
 - La operación **Raíz** calcula la raíz `num2`-ésima de `num1`.
 - Si dejas un campo vacío o escribes algo que no sea un número, se mostrará un mensaje de error.
 - No se permite dividir entre cero.
+- No se permite sacar raíz de un número negativo.
+- No se puede sacar raíz si su índice es de cero
 
 ## Autor
 
