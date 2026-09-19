@@ -27,7 +27,7 @@ Calculadora básica hecha con HTML, CSS y JavaScript que realiza operaciones ari
 ## Cómo usarlo
 
 1. Abre el siguiente enlace en tu navegador:  
-   https://chrishs176.github.io/Calculadora_Simple/
+   https://chrishs176.github.io/Calculadora_JS/
 2. Escribe dos números en los campos.
 3. Haz clic en el botón de la operación que quieras realizar.
 4. El resultado aparecerá abajo.
